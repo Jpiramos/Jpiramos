@@ -9,3 +9,4 @@
 
 ![João Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpiramos&show_icons=true&theme=dracula)
 
+![Snake animation](https://github.com/Jpiramos/Jpiramos/blob/output/github-contribution-grid-snake.svg)
