@@ -12,8 +12,8 @@ Bem vindo ao meu perfil 🖤
 </div>
 
 <div align="center">
-<img width="450em" alt="Status Github Jpiramos" src="https://github-readme-stats.vercel.app/api?username=Jpiramos&show_icons=true&theme=dracula" />
-<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpiramos&layout=compact&langs_count=7&theme=dracula"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Jpiramos&show_icons=true&theme=dracula"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpiramos&layout=compact&langs_count=7&theme=dracula">
 
 ![Snake animation](https://github.com/Jpiramos/Jpiramos/blob/output/github-contribution-grid-snake.svg)
  
