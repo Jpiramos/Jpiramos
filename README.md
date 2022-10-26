@@ -5,12 +5,8 @@ Bem vindo ao meu perfil 🖤
  <p>● Estudante de Programação</p>
  <p>● Aprendendo sobre Bancos de dados e Javascript (Nodejs) </p>
  
- <div align="right" width = "400px">
+<img align = "right" src ="https://user-images.githubusercontent.com/102618195/197905782-b8a6ca74-c2f6-47ee-a2bc-2e35c9ccc840.png" width = "400px" />
  
-![octocat-1666743439495](https://user-images.githubusercontent.com/102618195/197905782-b8a6ca74-c2f6-47ee-a2bc-2e35c9ccc840.png)
- 
- </div>
-
 
 <div align="center">
 
