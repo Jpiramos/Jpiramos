@@ -1,4 +1,4 @@
-## Lambda, lambda, lambda!🖖 <img align = "right" src ="https://user-images.githubusercontent.com/102618195/197905782-b8a6ca74-c2f6-47ee-a2bc-2e35c9ccc840.png" width = "250px" />
+## Lambda, lambda, lambda!🖖 <img align = "right" src ="https://user-images.githubusercontent.com/102618195/197905782-b8a6ca74-c2f6-47ee-a2bc-2e35c9ccc840.png" width = "200px" />
 Bem vindo ao meu perfil 🖤                       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
