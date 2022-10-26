@@ -4,8 +4,10 @@ Bem vindo ao meu perfil 🖤
 <h3> Desenvolvimento Web </h3>
  <p>● Estudante de Programação</p>
  <p>● Aprendendo sobre Bancos de dados e Javascript (Nodejs) </p>
+ 
 
-<div align="center">
+<div align="right">![octocat-1666743439495](https://user-images.githubusercontent.com/102618195/197905782-b8a6ca74-c2f6-47ee-a2bc-2e35c9ccc840.png)
+
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ignacio-ramos-b50296221/)   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
