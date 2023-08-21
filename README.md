@@ -1,10 +1,11 @@
 
-Bem vindo ao meu perfil 🖤                       
+                    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3> Desenvolvimento Web </h3>
- <p>● Estudante de Programação</p>
- <p>● Aprendendo sobre Bancos de dados e Javascript (Nodejs) </p>
+
+ <h3>Estudante de Programação</h3>
+ <p>  Sistemas de Informação 5/8 </p>
+
  
 
 <div align="center">
@@ -16,7 +17,7 @@ Bem vindo ao meu perfil 🖤
 
 <div align="center">
  
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Jpiramos&show_icons=true&theme=dracula"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Jpiramos&show_icons=true&theme=dracula"> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpiramos&layout=compact&langs_count=7&theme=dracula">
 
 ![Snake animation](https://github.com/Jpiramos/Jpiramos/blob/output/github-contribution-grid-snake.svg)
