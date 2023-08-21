@@ -10,12 +10,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/Jpiramos/Jpiramos/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+![snake animation](https://github.com/Jpiramos/Jpiramos/blob/output/github-contribution-grid-snake2.svg)
 
 
 
