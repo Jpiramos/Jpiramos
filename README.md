@@ -3,8 +3,8 @@
   <ul align="center">
     <summary>
      <h2> 👋 Olá, eu sou João Pedro! </h2>
-<span>👨‍💻 Desenvolvedor Full Stack Júnior | Foco em Backend com Node.js<span/>
-<span>Sou um desenvolvedor full stack com maior foco em backend, apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais.<span/>
+<h3>👨‍💻 Desenvolvedor Full Stack Júnior | Foco em Backend com Node.js<h3/>
+<h4>Sou um desenvolvedor full stack com maior foco em backend, apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais.<h4/>
 <br/>
 <span>Atualmente, trabalho em projetos próprios e colaborativos utilizando Node.js, Express, JavaScript, React, MySQL, entre outras tecnologias. Estou sempre buscando evoluir minhas habilidades e contribuir com código limpo e bem estruturado.
 <span/>
