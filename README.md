@@ -21,18 +21,15 @@
 
 <p align="center">
 
-<table align="center">
-<tr border="none">
+<div align="center">
 
-<td width="50%" align="center">
+<div width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jpiramos&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+  </div>
 
-  <td width="50%" align="center">
-
- <div style="display: inline_block">
+ <div  width="50%" align="center" style="display: inline_block">
    <h4>🛠️ Tecnologias que utilizo</h4>
    <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,9 +41,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  </td>
-</tr>
-</table>
+
+</div>
 
 
 </p>        
