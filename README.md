@@ -21,13 +21,11 @@
 
 <p align="center">
 
-<div align="center">
+<div align="center" display="flex">
 
-<div width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jpiramos&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </div>
+ <div width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jpiramos&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ </div>
 
  <div  width="50%" align="center" style="display: inline_block">
    <h4>🛠️ Tecnologias que utilizo</h4>
